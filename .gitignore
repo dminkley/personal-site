@@ -1,0 +1,3 @@
+# Files to ignore; node_modules will be installed when pushed to production
+node_modules
+raw_images

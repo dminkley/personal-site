@@ -1,0 +1,31 @@
+//- Expects the following variables:
+//-     page_id
+//-     page_title
+//-     pages
+//-     posts
+//-     curr_year
+//-
+//- Each post in posts has: post_id, html, metadata
+
+doctype html
+meta(name="viewport" content="width=device-width, initial-scale=1")
+html
+    head
+        link(rel="stylesheet" type="text/css" href="main.css")
+        link(rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
+        link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Work+Sans:400,700")
+        title #{page_title}
+    body
+        div(id="main-container")
+            header
+                include header.pug    
+            main(class="a-lot-of-text")
+                each post in posts
+                    article(class="feed-post")
+                        h2
+                            a(href=`${page_id}/${post.post_id}`) #{post.metadata.title}
+                        h4 
+                            time(datetime=`${post.metadata.date_str}`) #{post.metadata.date_str}
+                        | #{post.metadata.summary}
+            footer
+                include footer.pug

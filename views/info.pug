@@ -1,0 +1,23 @@
+//- Expects the following variables:
+//-     page_title
+//-     main_html
+//-     pages
+//-     curr_year
+
+doctype html
+meta(name="viewport" content="width=device-width, initial-scale=1")
+
+html
+	head
+		link(rel="stylesheet" type="text/css" href="main.css")
+		link(rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css")
+		link(rel="stylesheet" href="https://fonts.googleapis.com/css?family=Crimson+Text|Work+Sans:400,700")
+		title #{page_title}
+	body
+		div(id='main-container')
+			header
+				include header.pug
+			main
+				| !{main_html}
+			footer
+				include footer.pug

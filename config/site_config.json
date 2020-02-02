@@ -1,0 +1,31 @@
+{
+    "pages": [
+        {
+            "name": "home",
+            "nice_name": "Welcome",
+            "page_type": "info",
+            "landing_page": true
+        },
+        {
+            "name": "research",
+            "nice_name": "Research",
+            "page_type": "info"
+        },
+        {
+            "name": "blog",
+            "nice_name": "Blog",
+            "page_type": "feed"
+        },
+        { 
+            "name": "publications",
+            "nice_name": "Thesis & Publications",
+            "page_type": "info"
+        },
+        {
+            "name": "cv",
+            "nice_name": "CV",
+            "page_type": "resource_link",
+            "target_url": "dminkley_cv.pdf"
+        }
+    ]
+}

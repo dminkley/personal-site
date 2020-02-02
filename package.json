@@ -1,0 +1,22 @@
+{
+  "name": "personal_site_2",
+  "version": "1.0.0",
+  "description": "David's Personal Site",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Minkley",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "front-matter": "^3.0.2",
+    "fs": "0.0.1-security",
+    "markdown-it": "^10.0.0",
+    "moment": "^2.24.0",
+    "nodemon": "^1.19.2",
+    "package.json": "^2.0.1",
+    "pug": "^2.0.4"
+  }
+}

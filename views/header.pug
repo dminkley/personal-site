@@ -1,0 +1,16 @@
+//- Expects the following variables:
+//-		pages
+
+script
+	include included_js/topNavBar.js
+div(id="header_banner")
+	h2(class="banner-text") David Minkley
+	h4(class="banner-text") Computational Biology & Programming
+nav(id="main_page_nav_bar" class="top_nav_bar")
+	each page in pages
+		if page_title === page.nice_name
+			a(href=`/${page.name}` class="current_page") #{page.nice_name}
+		else
+			a(href=`/${page.name}`) #{page.nice_name}
+	a(href="javascript:void(0);" class="icon" onclick="showHideTopMenu()")
+		i(class="fa fa-bars")

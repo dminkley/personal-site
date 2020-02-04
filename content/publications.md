@@ -8,11 +8,13 @@ My 2018 Masters thesis, "Transposable Elements in the Salmonid Genome", is [avai
 ## Peer-Reviewed Publications
 ##### † Authors contributed equally
 
+### 2020
+
+Jacobs A, Carruthers M, Yurchenko A, Gordeeva NV, Alekseyev SS, Hooker O, Leong JS, __Minkley DR__, Rondeau EB, Koop BF, Adams CE, Elmer KR.  Parallelism in eco-morphology and gene expression despite variable evolutionary and genomic backgrounds in a Holarctic fish. *In Review at PLoS Genetics.*
+
 ### 2019
 
-Pearse DF, Barson N, Nome T, Gao G, Campbell M, Abadía-Cardoso A, Anderson E, Rundio DE, Williams TH, Naish KA, Baranski M, Moen T, Liu S, Kent M, __Minkley DR__, [14 others]. Sex-dependent dominance maintains migration supergene in rainbow trout. *Accepted in Nature Ecology and Evolution ([Pre-print available on bioRxiv](https://www.biorxiv.org/content/10.1101/504621v1)).*
-
-Jacobs A, Carruthers M, Yurchenko A, Gordeeva NV, Alekseyev SS, Hooker O, Leong JS, __Minkley DR__, Rondeau EB, Koop BF, Adams CE, Elmer KR.  Parallelism in eco-morphology and gene expression despite variable evolutionary and genomic backgrounds in a Holarctic fish. *Submitted to PLoS Genetics.*
+Pearse DF, Barson N, Nome T, Gao G, Campbell M, Abadía-Cardoso A, Anderson E, Rundio DE, Williams TH, Naish KA, Moen T, Liu S, Kent M, Moser M, __Minkley DR__, [17 others]. Sex-dependent dominance maintains migration supergene in rainbow trout. *[Nature Ecology & Evolution 3:1731-1742](https://www.nature.com/articles/s41559-019-1044-6).*
 
 ### 2018
 

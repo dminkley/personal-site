@@ -33,6 +33,7 @@ The CMS expects the following directory structure:
 
 Node/JavaScript libraries:
 - [express](https://expressjs.com/) - Node.js server framework
+- [Pug](https://pugjs.org/) - An HTML templating engine
 - [markdown-it](https://github.com/markdown-it/markdown-it) - A Markdown to HTML parser
 - [front-matter](https://www.npmjs.com/package/front-matter) - Extracts YAML-formatted metadata from the beginning of Markdown documents
 - [moment](https://momentjs.com/) - Time and dates for JavaScript

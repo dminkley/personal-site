@@ -10,7 +10,7 @@ My 2018 Masters thesis, "Transposable Elements in the Salmonid Genome", is [avai
 
 ### 2020
 
-Jacobs A, Carruthers M, Yurchenko A, Gordeeva NV, Alekseyev SS, Hooker O, Leong JS, __Minkley DR__, Rondeau EB, Koop BF, Adams CE, Elmer KR.  Parallelism in eco-morphology and gene expression despite variable evolutionary and genomic backgrounds in a Holarctic fish. *In Review at PLoS Genetics.*
+Jacobs A, Carruthers M, Yurchenko A, Gordeeva NV, Alekseyev SS, Hooker O, Leong JS, __Minkley DR__, Rondeau EB, Koop BF, Adams CE, Elmer KR.  Parallelism in eco-morphology and gene expression despite variable evolutionary and genomic backgrounds in a Holarctic fish. *Accepted at PLoS Genetics on Feb. 6, 2020.*
 
 ### 2019
 

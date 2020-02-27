@@ -2,7 +2,7 @@
 author: David Minkley
 date: 2019-10-10
 ---
-<img src="norway_profile_photo.jpg" width=192 height=209 class="profile-pic">
+<img src="lab_profile_photo.jpg" alt="Head shot of David Minkley in a genetics lab" width=205 height=191 class="profile-pic">
 
 ## __David R. Minkley, M.Sc.__
 

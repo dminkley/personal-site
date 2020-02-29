@@ -1,6 +1,9 @@
-// dminkley
-// Other requires
-// Note that fs and md are different approaches.  Could look more into this.
+/* 
+ * Created by David Minkley (david.r.minkley@gmail.com)
+ * Covered by the CC BY-NC 4.0 license, see https://creativecommons.org/licenses/by-nc/4.0/
+ * Last updated February 2020
+ */
+
 const fs = require("fs");
 const path = require("path");
 const md = require("markdown-it")({html:true});
@@ -13,7 +16,7 @@ as a callback to handle requests. */
 const express = require("express");
 const app = express();
 
-/* Specifies to express that the templating engine to be used is pug */
+/* Set up templating engine */
 app.set('view engine', 'pug');
 app.set("views", "./views/");
 
@@ -133,7 +136,7 @@ for (const page in site_config.pages) {
         case "resource_link":
             /* This is a 'resource_link' type page - a simple link to a static file. */
             app.get("/"+this_page.name, (req, res) => {
-                res.sendFile(__dirname+"/resources/"+this_page.target_url);
+                res.sendFile(__dirname+"/public/"+this_page.target_url);
             });
             break;
     }

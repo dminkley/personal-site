@@ -2,28 +2,28 @@
     "pages": [
         {
             "name": "home",
-            "nice_name": "Welcome",
+            "nice_name": "David Minkley - Welcome",
             "page_type": "info",
             "landing_page": true
         },
         {
             "name": "research",
-            "nice_name": "Research",
+            "nice_name": "David Minkley - Research",
             "page_type": "info"
         },
         {
             "name": "blog",
-            "nice_name": "Blog",
+            "nice_name": "David Minkley - Blog",
             "page_type": "feed"
         },
         { 
             "name": "publications",
-            "nice_name": "Thesis & Publications",
+            "nice_name": "David Minkley - Thesis & Publications",
             "page_type": "info"
         },
         {
             "name": "cv",
-            "nice_name": "CV",
+            "nice_name": "David Minkley - CV",
             "page_type": "resource_link",
             "target_url": "dminkley_cv.pdf"
         }

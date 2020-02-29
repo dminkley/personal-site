@@ -10,6 +10,5 @@ I'm a Canadian computational biologist and programmer using whole-genome sequenc
 
 * Email: [dminkley@uvic.ca](mailto:dminkley@uvic.ca)
 * GitHub: [dminkley](https://github.com/dminkley)
-* ResearchGate: [David Minkley](https://www.researchgate.net/profile/David_Minkley)
 * Google Scholar: [David Minkley](https://scholar.google.ca/citations?user=ORmW_Q0AAAAJ)
 * LinkedIn: [David Minkley](https://ca.linkedin.com/in/dminkley)

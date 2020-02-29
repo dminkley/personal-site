@@ -12,6 +12,11 @@
             "page_type": "info"
         },
         {
+            "name": "programming",
+            "nice_name": "Programming",
+            "page_type": "info"
+        },
+        {
             "name": "blog",
             "nice_name": "Blog",
             "page_type": "feed"

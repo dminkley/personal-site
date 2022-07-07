@@ -14,7 +14,7 @@
     "front-matter": "^3.0.2",
     "fs": "0.0.1-security",
     "markdown-it": "^10.0.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "nodemon": "^1.19.2",
     "package.json": "^2.0.1",
     "pug": "^2.0.4"
